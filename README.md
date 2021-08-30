@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akshaykumar0831
-- 👀 I’m interested in DevOps
+- 👀 I’m interested in DevOps Culture
 - 🌱 I’m currently learning DevOps Tools
 - 💞️ I’m looking to collaborate on learning different devops tools
 - 📫 How to reach me Email: akshaykumarkhambam@gmail.com
