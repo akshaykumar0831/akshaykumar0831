@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @akshaykumar0831
-- 👀 I’m interested in DevOps Culture
-- 🌱 I’m currently learning DevOps Tools
-- 💞️ I’m looking to collaborate on learning different devops tools
-- 📫 How to reach me Email: akshaykumarkhambam@gmail.com
+Hello there! I'm Akshay Kumar, an enthusiastic Computer and Information Science graduate with experience in automating processes, and optimizing backend systems using Python, SQL, and cloud technologies. Skilled in software testing, CI/CD, and troubleshooting, with a strong focus on scalable solutions, automation, and collaboration in Agile environments.
 
 <!---
 akshaykumar0831/akshaykumar0831 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
